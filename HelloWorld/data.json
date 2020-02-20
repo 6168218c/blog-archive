@@ -1,5 +1,6 @@
 {
 	"time": "2020-02-14T18:09:49Z",
 	"title": "Hello World",
-	"format": "md"
+	"format": "md",
+	"internaltitle": "hello-world"
 }
